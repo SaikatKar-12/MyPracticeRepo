@@ -33,6 +33,34 @@ mypractice/
 - **Excercise1-8**: Spring Core projects with Maven, including repository, service, aspect, and application layers
 - Each exercise contains a `LibraryManagement` project with source code and resources
 
+### Week 4: Spring REST
+- **spring-learn**: Spring Boot REST API project
+  - Controllers, services, and exception handling
+  - RESTful endpoints implementation
+  - Maven-based project structure
+
+### Week 5: Microservices
+- **Microservices/account**: Account microservice
+  - REST endpoints for account operations
+  - Maven-based project
+- **Microservices/loan**: Loan microservice
+  - REST endpoints for loan operations
+  - Maven-based project
+
+### Week 6: React Applications
+- **blogapp**: Blog application
+- **cohorttracker**: Cohort tracking application
+- **myfirstreact**: Basic React application
+- **scorecalculatorapp**: Score calculator with components
+- **studentapp**: Student information application
+
+### Week 7: Advanced React Projects
+- **bloggerapp**: Blogging platform with components
+- **cricketapp**: Cricket information application
+- **eventexamplesapp**: Event handling examples
+- **officespacerentalapp**: Office space rental system
+- **ticketbookingapp**: Ticket booking application
+
 ## How to Run
 
 ### Java Projects (Week 1)
